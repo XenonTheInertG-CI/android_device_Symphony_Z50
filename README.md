@@ -1,1 +1,1 @@
-# android_device_symphony_Symphony_Z50
+# TWRP device tree for Symphony Z50 to build TWRP touch recovery 
